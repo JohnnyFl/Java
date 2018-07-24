@@ -1,4 +1,4 @@
-package Function_programming;
+package Functional_programming;
 
 import java.io.File;
 import java.io.IOException;
